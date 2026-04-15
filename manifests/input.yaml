@@ -376,3 +376,13 @@ work/INPUT/crujra_access_Wind_1909.nc:
   hashes:
     binhash: 5b077955525dfad1e48cdb515a0427e2
     md5: 626f658b5ea890cea164f6024a9a844f
+work/INPUT/modis_phenology_csiro_13evergreen.txt:
+  fullpath: /home/189/sb8430/crujra_accessN96_1h/auxillary_inputs/modis_phenology_csiro_13evergreen.txt
+  hashes:
+    binhash: d34e6b45825914a70239cca316382bf4
+    md5: c8f344d7371949fb6aac7f71e1e003d6
+work/INPUT/pftlookup.csv:
+  fullpath: /home/189/sb8430/crujra_accessN96_1h/auxillary_inputs/pftlookup.csv
+  hashes:
+    binhash: 086ee3bb98f573ac6e61c6d99432cf62
+    md5: 0b9d95a4841aba6fdd6769d12228e416

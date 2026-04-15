@@ -19,6 +19,11 @@ input:
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Wind
     - /g/data/rp23/data/no_provenance/landmask/crujra_accessN96_landmask.nc
     - /g/data/rp23/data/no_provenance/gridinfo/crujra_accessN96_gridinfo.nc
+    - ./auxillary_inputs/modis_phenology_csiro_13evergreen.txt
+    - ./auxillary_inputs/pftlookup.csv
+
+userscripts:
+  setup: ./userscripts/read_casa_restart.sh
 
 # Disable collation
 collate: False
